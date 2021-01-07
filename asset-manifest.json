@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TheDivGuy/maestra-app.git/static/css/main.ece30df1.chunk.css",
+    "main.js": "/TheDivGuy/maestra-app.git/static/js/main.02fffd8e.chunk.js",
+    "main.js.map": "/TheDivGuy/maestra-app.git/static/js/main.02fffd8e.chunk.js.map",
+    "runtime-main.js": "/TheDivGuy/maestra-app.git/static/js/runtime-main.e99ed848.js",
+    "runtime-main.js.map": "/TheDivGuy/maestra-app.git/static/js/runtime-main.e99ed848.js.map",
+    "static/js/2.69f01ff3.chunk.js": "/TheDivGuy/maestra-app.git/static/js/2.69f01ff3.chunk.js",
+    "static/js/2.69f01ff3.chunk.js.map": "/TheDivGuy/maestra-app.git/static/js/2.69f01ff3.chunk.js.map",
+    "static/js/3.d66a64f1.chunk.js": "/TheDivGuy/maestra-app.git/static/js/3.d66a64f1.chunk.js",
+    "static/js/3.d66a64f1.chunk.js.map": "/TheDivGuy/maestra-app.git/static/js/3.d66a64f1.chunk.js.map",
+    "index.html": "/TheDivGuy/maestra-app.git/index.html",
+    "static/css/main.ece30df1.chunk.css.map": "/TheDivGuy/maestra-app.git/static/css/main.ece30df1.chunk.css.map",
+    "static/js/2.69f01ff3.chunk.js.LICENSE.txt": "/TheDivGuy/maestra-app.git/static/js/2.69f01ff3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e99ed848.js",
+    "static/js/2.69f01ff3.chunk.js",
+    "static/css/main.ece30df1.chunk.css",
+    "static/js/main.02fffd8e.chunk.js"
+  ]
+}
